@@ -4,7 +4,7 @@ module.exports = {
   theme: {
     extend: {
       colors : {
-        'bgclr-100x' : '#ef5a3c',
+        'bgclr-100x' : '#00B2FF',
       },
       fontFamily : {
         'dm': ["DM Sans"] ,
