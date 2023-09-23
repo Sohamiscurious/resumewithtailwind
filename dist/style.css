@@ -652,7 +652,7 @@ video {
 
 .bg-bgclr-100x {
   --tw-bg-opacity: 1;
-  background-color: rgb(239 90 60 / var(--tw-bg-opacity));
+  background-color: rgb(0 178 225/ var(--tw-bg-opacity));
 }
 
 .bg-gradient-to-r {
